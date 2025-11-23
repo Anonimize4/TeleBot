@@ -1,0 +1,4 @@
+.env
+krisbot.log
+__pycache__/
+.venv/

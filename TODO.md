@@ -1,0 +1,7 @@
+- [x] Modify KrisBot.py to generate fake email and phone if not provided by user
+- [x] Expand mock data generation for Instagram in perform_instagram_scrape
+- [x] Expand mock data generation for Facebook in perform_facebook_scrape
+- [x] Update handle_text and start to use fake data when MOCK_MODE is on
+- [x] Update test_mock.py to include Instagram and Facebook mock tests
+- [x] Test the changes with MOCK_MODE=1
+- [x] Fix synchronous requests.get in tiktok_fetch callback to use async httpx

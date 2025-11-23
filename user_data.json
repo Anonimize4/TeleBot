@@ -1,0 +1,103 @@
+{
+  "12345": {
+    "email": "user@example.com",
+    "phone": "+11234567890",
+    "social_media": [
+      "LinkedIn",
+      "LinkedIn",
+      "LinkedIn"
+    ],
+    "is_adding_platform": false
+  },
+  "67890": {
+    "email": "user2@example.com",
+    "phone": "+19876543210",
+    "social_media": []
+  },
+  "6526221644": {
+    "email": "samuelbelay81@gmail.com",
+    "phone": "+251927669472",
+    "social_media": [],
+    "is_adding_platform": true,
+    "awaiting_token": true,
+    "awaiting_platform": "instagram"
+  },
+  "999": {
+    "email": null,
+    "phone": null,
+    "social_media": [],
+    "tiktok_token": null,
+    "fetched_data": {},
+    "is_adding_platform": false,
+    "awaiting_token": false
+  },
+  "99999": {
+    "email": null,
+    "phone": null,
+    "social_media": [],
+    "platform_data": {
+      "tiktok_candidates": {
+        "@test*": [
+          "testb",
+          "testc",
+          "testa",
+          "testd",
+          "teste",
+          "testm",
+          "testp",
+          "test7"
+        ]
+      }
+    }
+  },
+  "99": {
+    "email": "joe@example.com",
+    "phone": "+15550009999",
+    "platform_data": {
+      "tiktok": [
+        {
+          "username": "joe_9999_1",
+          "url": "https://www.tiktok.com/@joe_9999_1",
+          "avatar": "https://example.com/avatars/joe_9999_1.jpg",
+          "followers": 3295,
+          "following": 1129,
+          "likes": 127977,
+          "videos": 1324,
+          "bio": "Mock account derived from joe and 9999",
+          "meta": {
+            "matched_email": "joe@example.com",
+            "matched_phone": "+15550009999"
+          }
+        },
+        {
+          "username": "joe_9999_2",
+          "url": "https://www.tiktok.com/@joe_9999_2",
+          "avatar": "https://example.com/avatars/joe_9999_2.jpg",
+          "followers": 77858,
+          "following": 499,
+          "likes": 80326,
+          "videos": 1519,
+          "bio": "Mock account derived from joe and 9999",
+          "meta": {
+            "matched_email": "joe@example.com",
+            "matched_phone": "+15550009999"
+          }
+        },
+        {
+          "username": "joe_9999_3",
+          "url": "https://www.tiktok.com/@joe_9999_3",
+          "avatar": "https://example.com/avatars/joe_9999_3.jpg",
+          "followers": 111129,
+          "following": 1977,
+          "likes": 383324,
+          "videos": 155,
+          "bio": "Mock account derived from joe and 9999",
+          "meta": {
+            "matched_email": "joe@example.com",
+            "matched_phone": "+15550009999"
+          }
+        }
+      ]
+    }
+  }
+}
